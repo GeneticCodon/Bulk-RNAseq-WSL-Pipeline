@@ -214,7 +214,7 @@ EnhancedVolcano(res,
 ---
 
 ## Hall of Testers (Windows + WSL)
-Want your name here? Comment on this issue: <LINK_TO_PINNED_ISSUE>
+Want your name here? Comment on this issue: https://github.com/GeneticCodon/Bulk-RNAseq-WSL-Pipeline/issues/1
 
 - @username — Windows 11 + WSL2 Ubuntu 22.04 — “fastp worked out of the box”
 - @username — Windows 10 + WSL2 Ubuntu 20.04 — “needed to fix PATH for HISAT2”
