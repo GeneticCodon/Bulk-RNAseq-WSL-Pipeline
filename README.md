@@ -135,6 +135,8 @@ gunzip Homo_sapiens.GRCh38.115.gtf.gz
 hisat2-build Homo_sapiens.GRCh38.dna.primary_assembly.fa hg38_index
 ```
 > This generates `hg38_index.*.ht2` files for alignment.
+> “Alignment with HISAT2 may need ~8GB RAM for the human genome.”
+> “If you run into memory errors, try mouse genome first.”
 
 ---
 
