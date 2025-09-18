@@ -207,6 +207,6 @@ EnhancedVolcano(res,
 ---
 
 **Maintainer**: [GeneticCodon](https://github.com/GeneticCodon)  
-**License**: MIT (or specify if different)
+**License**: MIT 
 
 ---
